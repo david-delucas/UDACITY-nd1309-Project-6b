@@ -10,29 +10,31 @@ If IPFS is used, include how IPFS is used in this project.
 
 Program version numbers (This information will help your reviewer troubleshoot your project if any issues arise):
 
-node version number
 
-Truffle version number
+- Truffle v5.1.11 (core: 5.1.11)
+- Solidity v0.5.16 (solc-js)
+- Node v12.14.1
+- Web3.js v1.2.1
 
-web3 version number
 
+## Project files
 
-Your project files
+### UML documents:
 
-UML documents:
+Files located in uml folder.
 
-Activity
+#### Activity
 
 ![Activity](uml/ActivityDiagram1.png)
 
-Sequence
+#### Sequence
 
 ![Sequence](uml/SequenceDiagram1.png)
 
-State
+#### State
 
 ![State](uml/StateDiagram1.png)
 
-Class (Data Model)
+#### Class (Data Model)
 
 ![DataModel](uml/DataModel1.png)
