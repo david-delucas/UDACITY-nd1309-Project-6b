@@ -1,3 +1,7 @@
+build/*
+.secret
+
+
 # Logs
 logs
 *.log
