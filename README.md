@@ -5,6 +5,10 @@
 The contract address
 If libraries were used, include why these libraries were adopted.
 
+npm install truffle-assertions
+
+to be able to use Truffle v5
+as indicated in https://knowledge.udacity.com/questions/39124
 
 If IPFS is used, include how IPFS is used in this project.
 
